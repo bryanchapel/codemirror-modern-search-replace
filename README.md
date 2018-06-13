@@ -16,7 +16,7 @@ Become these:
 ![New Search](https://github.com/bryanchapel/codemirror-modern-search-replace/blob/master/screenshots/newsearch.png "New Search")
 ![New Replace](https://github.com/bryanchapel/codemirror-modern-search-replace/blob/master/screenshots/newreplace.png "New Replace")
 
-(BYOS: bring your own styling :-) )
+(BYOS: bring your own styling 🙂)
 
 Note: Since I'm using this as part of a side project, this particular version has a Bootstrap 4 dependency for some of the button icons. I've also gone with strictly CommonJS for the imports/exports.
 
